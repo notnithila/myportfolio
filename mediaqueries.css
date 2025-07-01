@@ -39,6 +39,8 @@
     .about-containers {
         margin-top: 0;
     }
+
+
 }
 
 @media screen and (max-width: 600px) {
@@ -102,5 +104,15 @@
 
     .text-container {
         text-align: justify;
+    }
+
+    .popupDialog {
+        height: fit-content; 
+        width: 75vw;
+        
+    }
+
+    .popup-text {
+        justify-content: center;
     }
 }
